@@ -1,4 +1,4 @@
-8e50d5a533b3678d41fe4f75d3456def *DESCRIPTION
+08c705bacffea6a5b5b19b1cc84cf564 *DESCRIPTION
 f112cc7d9a6d55f56c2216c80b9b115b *NAMESPACE
 7e0000393ddcc643f32f127a47b86b84 *R/data.R
 0d00e416d42af73330f9f4b95888d5bf *R/heatmap.3.R
@@ -14,15 +14,15 @@ bfaa039c0a5ff7b7d0dd2ddc6d60cfd1 *R/xseq_inference_learning.R
 73dc4d42cb9d36d2981d1ac1c473bd22 *R/xseq_init_expr_dis.R
 98a9afeaa39feb2209d0f850d6021173 *R/xseq_plot.R
 332adc6d108789548a88b1e5463ace8c *R/zzz.R
-903bfd12142854d7148b17cf757f7ec2 *build/vignette.rds
+e21d87b170f4626a4373e184401d2fb5 *build/vignette.rds
 97e95e30ad3acce1322e84d35e592bd8 *data/cna.call.rda
 0ed0fc1cbc8eab6df71ccc961a1ae657 *data/cna.logr.rda
 41302ae236a981bcae116577815a1d2d *data/expr.rda
 f39a7ca377be8b53617b09c661a7d051 *data/mut.rda
 362d1ac28376d91f9e167b15b1b98724 *data/net.rda
 c5e88fe449b24f83b34bf902c5f1f543 *inst/doc/xseq-package.R
-a0f349dba8162e07df9d80de720f5b45 *inst/doc/xseq-package.Rmd
-7291785ef27307eb88d088eda8dec3a2 *inst/doc/xseq-package.pdf
+426a2bb5b74c69c9094c14c0c805238c *inst/doc/xseq-package.Rmd
+8e8542a3634320dcf9d8ff5ee0a4f811 *inst/doc/xseq-package.pdf
 62d8ed7d441843be4e18da69f6499c02 *man/ConvertXseqOutput.Rd
 3427677c6527833fbb6efd7ce7e72ddd *man/EstimateExpression.Rd
 c61ddd4cde31c49b60275980e7d9d02c *man/FilterNetwork.Rd
@@ -42,7 +42,7 @@ bbb53a6438dc6b9f7499a92c4811ae28 *man/expr.Rd
 90192079e269a3e2db07e83c8555d209 *man/net.Rd
 611e1ffd7d7d00486f4026a6fbc5335b *src/log_sum_exp.c
 09f34c039e852cf9a37117a993c00517 *src/mix_gauss_prob.c
-91f6aaabd30cf81c944008027da8fbcd *src/register.c
+67ea4cb7c7ea0dbc1e9268db0bcaa7ec *src/register.c
 28018449abb643685996898b935180e4 *src/xseq.h
-a0f349dba8162e07df9d80de720f5b45 *vignettes/xseq-package.Rmd
+426a2bb5b74c69c9094c14c0c805238c *vignettes/xseq-package.Rmd
 ef6ed2b29bd65f459b5c76830e71dddb *vignettes/xseq-package.html

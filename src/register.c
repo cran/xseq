@@ -20,7 +20,7 @@ static const R_CallMethodDef callMethods[] = {
 
 void R_init_xseq(DllInfo *info) {
   R_registerRoutines(info, NULL, callMethods, NULL, NULL);
-};
+}
 
 
 

@@ -1,12 +1,12 @@
 ---
-title: "xseq -- assessing functional impact on gene expression of mutations in cancer"
+title: "xseq -- Assessing Functional Impact on Gene Expression of Mutations in Cancer"
 author: "Jiarui Ding, Sohrab Shah"
 date: "`r Sys.Date()`"
 #output: rmarkdown::html_vignette
 output:  pdf_document
 theme: cerulean
 vignette: >
-  %\VignetteIndexEntry{Vignette Title}
+  %\VignetteIndexEntry{xseq -- Assessing Functional Impact on Gene Expression of Mutations in Cancer}
   %\VignetteEngine{knitr::rmarkdown}
   %\VignetteEncoding{UTF-8}
 ---
